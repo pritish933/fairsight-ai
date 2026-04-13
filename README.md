@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pritish933/fairsight-ai/main/frontend/public/corridor.jpg" alt="FairSight AI Banner" width="100%" style="border-radius: 12px; height: 250px; object-fit: cover;">
+  <img src="https://raw.githubusercontent.com/pritish933/fairsight-ai/main/preview.png" alt="FairSight AI UI Preview" width="100%" style="border-radius: 12px; border: 1px solid #333;">
   
   <br />
   <br />
