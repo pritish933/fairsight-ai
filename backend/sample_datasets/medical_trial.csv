@@ -1,0 +1,251 @@
+patient_id,gender,ethnicity,age_group,condition_severity,treatment_success
+1,Male,Caucasian,61+,Severe,0
+2,Female,Caucasian,41-60,Mild,1
+3,Male,Caucasian,41-60,Severe,1
+4,Male,Asian,41-60,Moderate,1
+5,Female,Caucasian,18-40,Moderate,1
+6,Male,African American,41-60,Mild,1
+7,Male,Caucasian,41-60,Moderate,1
+8,Male,Caucasian,18-40,Severe,1
+9,Male,Caucasian,41-60,Severe,1
+10,Male,African American,41-60,Moderate,1
+11,Male,Caucasian,61+,Mild,1
+12,Male,Caucasian,41-60,Mild,0
+13,Female,Caucasian,61+,Severe,0
+14,Male,Caucasian,41-60,Moderate,1
+15,Male,Asian,61+,Moderate,1
+16,Male,Asian,41-60,Mild,1
+17,Female,Caucasian,61+,Moderate,0
+18,Male,African American,41-60,Moderate,1
+19,Male,Asian,41-60,Severe,1
+20,Male,Caucasian,41-60,Moderate,1
+21,Male,Latino,41-60,Mild,1
+22,Male,Asian,18-40,Moderate,0
+23,Female,Caucasian,18-40,Mild,1
+24,Male,Caucasian,18-40,Severe,1
+25,Male,Asian,61+,Mild,1
+26,Male,African American,18-40,Moderate,0
+27,Female,Caucasian,18-40,Mild,1
+28,Male,Caucasian,41-60,Moderate,0
+29,Male,Caucasian,18-40,Moderate,1
+30,Male,African American,41-60,Moderate,0
+31,Male,Latino,18-40,Mild,1
+32,Male,Asian,61+,Mild,0
+33,Male,Caucasian,61+,Mild,1
+34,Male,African American,61+,Moderate,1
+35,Male,African American,41-60,Mild,1
+36,Male,Caucasian,61+,Moderate,1
+37,Male,Caucasian,18-40,Severe,1
+38,Male,Asian,18-40,Severe,0
+39,Female,Latino,18-40,Moderate,0
+40,Female,Caucasian,41-60,Moderate,0
+41,Female,African American,41-60,Mild,0
+42,Female,Caucasian,41-60,Moderate,1
+43,Male,African American,18-40,Severe,1
+44,Female,African American,41-60,Mild,0
+45,Male,African American,41-60,Moderate,1
+46,Male,Asian,41-60,Severe,1
+47,Male,African American,41-60,Severe,1
+48,Male,Caucasian,18-40,Mild,0
+49,Female,Latino,61+,Moderate,0
+50,Male,Caucasian,41-60,Mild,1
+51,Male,Caucasian,18-40,Mild,1
+52,Female,Caucasian,18-40,Severe,0
+53,Male,Caucasian,41-60,Severe,1
+54,Male,Latino,61+,Moderate,0
+55,Female,Caucasian,41-60,Mild,0
+56,Male,Latino,18-40,Severe,1
+57,Male,African American,61+,Moderate,0
+58,Male,Caucasian,41-60,Mild,1
+59,Male,Latino,41-60,Moderate,1
+60,Female,Caucasian,41-60,Mild,1
+61,Male,Caucasian,18-40,Moderate,1
+62,Male,African American,41-60,Moderate,0
+63,Male,Caucasian,41-60,Mild,1
+64,Male,Caucasian,61+,Mild,1
+65,Female,African American,41-60,Mild,1
+66,Male,African American,41-60,Mild,1
+67,Male,Caucasian,41-60,Moderate,1
+68,Male,Asian,61+,Severe,1
+69,Female,African American,61+,Mild,1
+70,Female,Latino,41-60,Mild,0
+71,Male,Caucasian,41-60,Moderate,1
+72,Male,African American,41-60,Severe,0
+73,Male,Latino,41-60,Mild,1
+74,Female,African American,18-40,Mild,0
+75,Male,African American,41-60,Moderate,0
+76,Female,Caucasian,18-40,Mild,1
+77,Male,Caucasian,61+,Mild,1
+78,Female,Caucasian,18-40,Moderate,1
+79,Male,Caucasian,61+,Moderate,1
+80,Male,Latino,41-60,Moderate,0
+81,Male,Caucasian,41-60,Moderate,1
+82,Male,Asian,41-60,Moderate,1
+83,Female,Asian,18-40,Mild,1
+84,Female,Caucasian,41-60,Mild,1
+85,Female,Caucasian,18-40,Mild,1
+86,Male,Latino,41-60,Mild,1
+87,Male,Asian,41-60,Moderate,0
+88,Female,Caucasian,61+,Severe,1
+89,Male,Caucasian,18-40,Severe,1
+90,Male,African American,18-40,Moderate,0
+91,Male,African American,41-60,Mild,1
+92,Male,Caucasian,61+,Mild,1
+93,Male,Latino,41-60,Severe,0
+94,Male,Caucasian,41-60,Moderate,1
+95,Male,Caucasian,41-60,Moderate,1
+96,Female,Caucasian,18-40,Moderate,1
+97,Male,Caucasian,61+,Moderate,1
+98,Male,Caucasian,41-60,Severe,0
+99,Male,Caucasian,18-40,Mild,1
+100,Female,Caucasian,41-60,Moderate,1
+101,Male,Caucasian,18-40,Severe,1
+102,Male,Caucasian,61+,Mild,1
+103,Male,Asian,18-40,Moderate,1
+104,Male,Caucasian,41-60,Mild,1
+105,Male,Caucasian,18-40,Severe,1
+106,Female,African American,41-60,Mild,0
+107,Female,Asian,61+,Moderate,0
+108,Male,Caucasian,41-60,Mild,1
+109,Male,African American,41-60,Moderate,1
+110,Female,African American,61+,Mild,0
+111,Male,African American,18-40,Mild,1
+112,Female,Caucasian,18-40,Moderate,1
+113,Male,African American,18-40,Severe,0
+114,Female,Caucasian,61+,Mild,0
+115,Female,African American,41-60,Mild,1
+116,Female,Latino,41-60,Moderate,1
+117,Female,Caucasian,41-60,Moderate,0
+118,Male,Latino,18-40,Severe,0
+119,Female,Caucasian,18-40,Mild,1
+120,Male,Latino,18-40,Moderate,1
+121,Male,Caucasian,41-60,Mild,1
+122,Female,Caucasian,18-40,Mild,1
+123,Female,Caucasian,18-40,Moderate,0
+124,Female,Asian,61+,Moderate,1
+125,Male,Caucasian,61+,Moderate,0
+126,Female,Caucasian,18-40,Mild,1
+127,Female,Caucasian,18-40,Moderate,1
+128,Male,African American,18-40,Moderate,0
+129,Male,African American,41-60,Severe,0
+130,Male,Caucasian,61+,Mild,1
+131,Male,Caucasian,18-40,Mild,1
+132,Female,Caucasian,18-40,Mild,1
+133,Male,Caucasian,61+,Moderate,0
+134,Female,Caucasian,41-60,Mild,1
+135,Female,African American,18-40,Severe,0
+136,Male,Caucasian,41-60,Mild,0
+137,Female,Caucasian,18-40,Severe,0
+138,Male,Caucasian,41-60,Mild,1
+139,Female,Asian,61+,Moderate,0
+140,Male,Asian,61+,Severe,0
+141,Female,Latino,41-60,Mild,1
+142,Male,Caucasian,61+,Severe,1
+143,Male,Caucasian,41-60,Moderate,1
+144,Female,Caucasian,61+,Severe,0
+145,Male,Caucasian,41-60,Moderate,0
+146,Male,African American,61+,Mild,0
+147,Male,Latino,61+,Mild,1
+148,Female,Latino,18-40,Mild,1
+149,Male,Latino,61+,Mild,1
+150,Male,Caucasian,61+,Mild,1
+151,Male,African American,61+,Mild,0
+152,Male,Caucasian,18-40,Moderate,1
+153,Male,Caucasian,61+,Moderate,1
+154,Male,African American,61+,Mild,1
+155,Male,Caucasian,18-40,Mild,1
+156,Male,Caucasian,61+,Moderate,1
+157,Male,Caucasian,18-40,Mild,1
+158,Female,African American,18-40,Mild,0
+159,Male,Latino,41-60,Mild,0
+160,Male,Caucasian,41-60,Severe,1
+161,Female,Latino,41-60,Severe,0
+162,Male,Caucasian,18-40,Mild,0
+163,Female,Caucasian,61+,Moderate,0
+164,Male,Latino,18-40,Moderate,1
+165,Male,African American,18-40,Moderate,1
+166,Male,Asian,18-40,Moderate,0
+167,Female,Caucasian,41-60,Moderate,0
+168,Female,African American,61+,Mild,1
+169,Male,African American,41-60,Mild,0
+170,Male,Asian,61+,Moderate,0
+171,Female,Caucasian,18-40,Severe,1
+172,Male,Latino,41-60,Moderate,1
+173,Male,African American,41-60,Severe,0
+174,Female,Caucasian,41-60,Severe,1
+175,Female,Caucasian,18-40,Mild,0
+176,Male,Caucasian,41-60,Moderate,1
+177,Female,African American,41-60,Moderate,0
+178,Female,Latino,61+,Severe,1
+179,Male,African American,41-60,Severe,1
+180,Male,African American,18-40,Moderate,1
+181,Male,African American,41-60,Mild,1
+182,Female,Caucasian,18-40,Moderate,1
+183,Female,Caucasian,61+,Mild,1
+184,Male,Caucasian,41-60,Moderate,1
+185,Female,Caucasian,18-40,Severe,0
+186,Male,Caucasian,61+,Mild,1
+187,Male,African American,41-60,Moderate,0
+188,Male,Caucasian,18-40,Moderate,1
+189,Male,Caucasian,41-60,Moderate,0
+190,Female,Caucasian,18-40,Mild,1
+191,Male,Caucasian,61+,Moderate,1
+192,Female,Asian,61+,Severe,1
+193,Male,Latino,61+,Severe,0
+194,Male,African American,41-60,Mild,0
+195,Female,Caucasian,41-60,Severe,1
+196,Male,Latino,61+,Moderate,1
+197,Male,Latino,18-40,Mild,0
+198,Male,Latino,41-60,Mild,1
+199,Female,Caucasian,41-60,Mild,1
+200,Male,African American,18-40,Severe,1
+201,Male,Latino,41-60,Moderate,1
+202,Male,African American,61+,Moderate,1
+203,Male,African American,61+,Mild,1
+204,Female,Caucasian,18-40,Moderate,1
+205,Male,African American,18-40,Mild,1
+206,Male,Caucasian,18-40,Mild,1
+207,Male,African American,61+,Moderate,0
+208,Male,Caucasian,18-40,Mild,1
+209,Female,Caucasian,41-60,Severe,1
+210,Male,Caucasian,18-40,Mild,1
+211,Female,African American,41-60,Moderate,1
+212,Male,Caucasian,41-60,Moderate,1
+213,Male,African American,61+,Moderate,1
+214,Female,Latino,18-40,Mild,0
+215,Male,Caucasian,41-60,Mild,1
+216,Female,Caucasian,18-40,Severe,1
+217,Female,Caucasian,41-60,Mild,0
+218,Male,Latino,61+,Severe,0
+219,Male,African American,18-40,Severe,1
+220,Female,Caucasian,61+,Mild,1
+221,Male,Caucasian,41-60,Mild,1
+222,Male,African American,18-40,Moderate,1
+223,Male,Latino,41-60,Severe,1
+224,Male,Latino,18-40,Severe,0
+225,Female,African American,41-60,Moderate,1
+226,Male,Caucasian,61+,Moderate,0
+227,Male,Caucasian,18-40,Mild,1
+228,Male,Caucasian,41-60,Severe,1
+229,Male,Caucasian,61+,Severe,0
+230,Male,Caucasian,61+,Mild,1
+231,Female,Caucasian,41-60,Mild,0
+232,Male,Caucasian,61+,Mild,1
+233,Female,Asian,41-60,Mild,1
+234,Female,African American,41-60,Severe,1
+235,Male,Latino,61+,Mild,1
+236,Male,African American,41-60,Mild,1
+237,Male,Caucasian,41-60,Mild,1
+238,Male,Latino,41-60,Severe,0
+239,Female,Caucasian,61+,Moderate,0
+240,Female,African American,61+,Moderate,1
+241,Male,Caucasian,41-60,Mild,1
+242,Male,Asian,18-40,Severe,1
+243,Female,Caucasian,41-60,Severe,1
+244,Female,Caucasian,41-60,Mild,1
+245,Male,Asian,18-40,Mild,1
+246,Male,Caucasian,61+,Mild,0
+247,Male,African American,41-60,Mild,0
+248,Female,Latino,18-40,Moderate,1
+249,Male,Latino,18-40,Severe,1
+250,Male,Asian,18-40,Moderate,1

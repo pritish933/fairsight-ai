@@ -1,0 +1,301 @@
+applicant_id,gender,age_group,education_level,years_experience,skills_score,hired
+1,Male,22-30,Bachelor,8,91,1
+2,Female,31-40,Bachelor,1,74,1
+3,Female,31-40,Bachelor,10,56,1
+4,Female,31-40,High School,6,73,1
+5,Male,41-50,Bachelor,4,85,0
+6,Male,51+,Bachelor,11,78,1
+7,Male,31-40,Bachelor,4,65,1
+8,Female,22-30,Bachelor,1,55,0
+9,Female,41-50,Bachelor,0,75,0
+10,Female,22-30,Master,9,70,0
+11,Male,31-40,High School,1,78,1
+12,Female,22-30,Master,14,74,0
+13,Female,22-30,Master,0,80,1
+14,Male,51+,High School,13,56,1
+15,Male,41-50,Master,7,84,1
+16,Male,41-50,PhD,6,67,0
+17,Male,31-40,High School,4,96,0
+18,Male,22-30,Bachelor,8,54,1
+19,Male,22-30,Master,6,91,1
+20,Male,22-30,Master,11,67,1
+21,Female,31-40,Bachelor,7,55,0
+22,Male,41-50,Bachelor,7,57,1
+23,Male,31-40,Bachelor,5,60,1
+24,Male,22-30,Bachelor,6,71,1
+25,Male,51+,Master,8,72,1
+26,Female,41-50,Bachelor,0,56,0
+27,Male,31-40,Bachelor,1,64,1
+28,Male,31-40,Master,9,97,1
+29,Female,31-40,High School,7,90,0
+30,Male,22-30,Bachelor,6,71,1
+31,Female,31-40,Master,7,65,0
+32,Male,41-50,Master,8,66,1
+33,Male,22-30,Bachelor,4,74,1
+34,Female,22-30,Bachelor,3,49,0
+35,Female,22-30,High School,7,61,0
+36,Female,22-30,Bachelor,3,39,0
+37,Male,41-50,Bachelor,8,70,0
+38,Male,41-50,Bachelor,0,74,1
+39,Female,31-40,Bachelor,11,57,1
+40,Male,22-30,Bachelor,8,88,1
+41,Male,31-40,High School,8,46,1
+42,Male,31-40,Bachelor,10,43,1
+43,Male,22-30,Bachelor,13,68,0
+44,Female,31-40,Bachelor,11,80,1
+45,Male,31-40,High School,0,90,1
+46,Female,31-40,Master,1,58,0
+47,Male,31-40,Bachelor,4,81,1
+48,Male,22-30,Master,7,64,1
+49,Male,31-40,Master,9,62,0
+50,Male,31-40,Bachelor,4,78,1
+51,Female,31-40,High School,7,74,0
+52,Female,41-50,Bachelor,3,41,0
+53,Female,31-40,Bachelor,4,87,1
+54,Female,22-30,Master,1,85,1
+55,Female,22-30,Bachelor,3,55,1
+56,Female,31-40,Bachelor,1,70,0
+57,Male,22-30,Bachelor,3,72,1
+58,Male,31-40,Bachelor,11,68,0
+59,Male,51+,Master,3,56,0
+60,Male,31-40,Bachelor,17,54,1
+61,Male,31-40,Bachelor,8,64,1
+62,Male,31-40,PhD,7,82,1
+63,Female,31-40,Master,3,73,1
+64,Male,31-40,Bachelor,9,59,1
+65,Male,51+,High School,4,76,1
+66,Male,31-40,Bachelor,7,30,0
+67,Male,51+,Bachelor,17,82,1
+68,Female,51+,Bachelor,6,38,0
+69,Male,22-30,Bachelor,11,59,1
+70,Female,22-30,Bachelor,4,48,0
+71,Female,22-30,Bachelor,6,45,1
+72,Male,22-30,Master,14,82,1
+73,Male,22-30,High School,4,57,0
+74,Female,41-50,Bachelor,14,70,0
+75,Female,22-30,Bachelor,9,64,0
+76,Female,22-30,PhD,4,72,1
+77,Female,41-50,High School,9,66,0
+78,Male,22-30,Bachelor,10,45,1
+79,Male,41-50,PhD,9,79,0
+80,Male,22-30,Master,0,57,1
+81,Female,22-30,Master,4,41,1
+82,Female,41-50,Bachelor,6,58,0
+83,Male,31-40,Bachelor,6,87,1
+84,Male,41-50,Master,9,77,1
+85,Male,41-50,PhD,7,59,0
+86,Male,41-50,Bachelor,1,59,0
+87,Female,22-30,Bachelor,8,60,1
+88,Female,22-30,Bachelor,9,96,1
+89,Female,41-50,Master,9,70,0
+90,Male,41-50,Bachelor,11,71,1
+91,Male,51+,Bachelor,10,80,1
+92,Female,31-40,Bachelor,8,68,1
+93,Female,31-40,Bachelor,6,61,0
+94,Male,41-50,Bachelor,0,62,1
+95,Female,31-40,High School,8,63,0
+96,Male,51+,Master,7,64,1
+97,Male,41-50,Bachelor,8,75,0
+98,Male,31-40,Bachelor,1,65,1
+99,Male,41-50,Bachelor,2,75,1
+100,Male,41-50,Bachelor,11,63,1
+101,Male,22-30,Bachelor,6,66,1
+102,Female,51+,High School,9,35,1
+103,Male,31-40,Bachelor,7,78,0
+104,Male,41-50,Bachelor,7,70,0
+105,Female,22-30,High School,10,79,0
+106,Male,41-50,PhD,4,30,1
+107,Male,31-40,Bachelor,7,96,1
+108,Female,22-30,Master,5,62,1
+109,Male,51+,Bachelor,5,81,1
+110,Male,22-30,Master,5,49,0
+111,Male,22-30,Master,7,74,1
+112,Male,51+,Bachelor,5,49,1
+113,Female,51+,Bachelor,12,55,0
+114,Female,31-40,Bachelor,3,93,0
+115,Female,31-40,Bachelor,6,62,1
+116,Female,31-40,PhD,5,68,0
+117,Female,22-30,Master,12,78,1
+118,Male,22-30,PhD,7,72,1
+119,Female,31-40,Bachelor,11,67,0
+120,Male,41-50,Master,1,70,1
+121,Female,41-50,PhD,8,100,1
+122,Female,41-50,Bachelor,10,64,1
+123,Male,22-30,High School,7,68,1
+124,Male,31-40,Master,11,80,1
+125,Male,22-30,Bachelor,4,81,1
+126,Male,31-40,Master,12,82,1
+127,Female,31-40,Bachelor,16,74,1
+128,Female,41-50,Master,5,47,0
+129,Male,31-40,Bachelor,5,89,1
+130,Male,22-30,Bachelor,12,47,1
+131,Male,22-30,Bachelor,13,69,0
+132,Male,41-50,Master,4,53,0
+133,Male,31-40,Master,5,64,1
+134,Male,22-30,Bachelor,5,69,1
+135,Female,22-30,Bachelor,1,69,0
+136,Male,41-50,Master,3,71,0
+137,Male,22-30,Bachelor,2,89,1
+138,Female,41-50,Master,3,71,0
+139,Male,41-50,Bachelor,6,61,1
+140,Female,22-30,Bachelor,7,79,1
+141,Female,22-30,Bachelor,13,82,0
+142,Male,51+,Bachelor,3,46,1
+143,Male,31-40,Master,10,73,1
+144,Male,31-40,Bachelor,6,75,1
+145,Male,41-50,Bachelor,6,60,1
+146,Male,51+,Master,9,85,0
+147,Female,51+,Bachelor,2,62,0
+148,Male,41-50,Bachelor,8,66,0
+149,Male,31-40,PhD,7,62,1
+150,Male,22-30,Master,8,65,1
+151,Female,41-50,High School,8,48,0
+152,Male,31-40,PhD,16,43,1
+153,Male,31-40,Master,4,88,1
+154,Male,51+,Bachelor,4,52,1
+155,Female,22-30,Bachelor,4,50,1
+156,Male,31-40,Master,4,32,1
+157,Female,22-30,Master,4,55,1
+158,Female,31-40,Bachelor,11,45,1
+159,Male,22-30,Master,12,89,1
+160,Female,22-30,Master,4,80,1
+161,Male,22-30,Bachelor,3,54,0
+162,Female,31-40,Bachelor,8,98,0
+163,Female,41-50,Bachelor,4,79,1
+164,Male,31-40,Master,9,60,1
+165,Male,51+,High School,7,30,1
+166,Female,31-40,Bachelor,0,99,0
+167,Male,22-30,Master,13,44,1
+168,Male,41-50,Master,14,40,1
+169,Male,22-30,Bachelor,4,80,0
+170,Female,51+,Master,5,100,0
+171,Female,22-30,High School,8,85,1
+172,Male,51+,Master,8,73,1
+173,Male,22-30,Bachelor,9,73,1
+174,Male,41-50,Bachelor,15,77,1
+175,Female,31-40,Master,6,76,0
+176,Male,51+,Bachelor,3,69,0
+177,Female,22-30,Bachelor,1,66,0
+178,Male,31-40,Master,4,64,1
+179,Female,51+,Master,6,53,1
+180,Male,31-40,Master,14,60,1
+181,Male,31-40,Master,4,39,1
+182,Male,41-50,Bachelor,7,63,0
+183,Female,31-40,Bachelor,6,50,1
+184,Female,31-40,Bachelor,11,48,1
+185,Male,31-40,Bachelor,17,67,0
+186,Female,51+,PhD,4,85,0
+187,Female,22-30,Bachelor,5,78,0
+188,Male,22-30,Bachelor,11,41,1
+189,Male,51+,Bachelor,9,50,1
+190,Male,41-50,PhD,14,79,1
+191,Male,31-40,Bachelor,9,50,0
+192,Female,31-40,Bachelor,5,61,1
+193,Female,22-30,Bachelor,9,73,0
+194,Female,22-30,Master,11,50,1
+195,Male,31-40,High School,10,66,0
+196,Male,31-40,Master,9,44,0
+197,Female,31-40,PhD,11,55,1
+198,Female,22-30,Bachelor,11,69,0
+199,Female,51+,Master,12,41,0
+200,Female,51+,PhD,9,71,1
+201,Female,41-50,Master,6,64,1
+202,Male,31-40,Bachelor,7,73,1
+203,Male,22-30,Bachelor,11,68,1
+204,Female,41-50,Master,3,85,0
+205,Female,41-50,Bachelor,8,66,1
+206,Male,22-30,Master,5,58,1
+207,Male,51+,PhD,7,66,0
+208,Female,41-50,PhD,12,73,0
+209,Male,51+,Bachelor,7,65,0
+210,Male,41-50,High School,7,65,1
+211,Male,31-40,PhD,1,54,1
+212,Female,31-40,Master,9,55,0
+213,Female,51+,Bachelor,9,43,0
+214,Male,41-50,PhD,15,91,0
+215,Female,22-30,Master,5,46,1
+216,Male,22-30,Bachelor,7,54,1
+217,Male,31-40,Bachelor,7,54,1
+218,Female,41-50,Bachelor,13,78,0
+219,Female,51+,High School,6,60,0
+220,Female,22-30,Bachelor,8,83,0
+221,Female,31-40,Master,9,54,1
+222,Male,31-40,High School,7,69,1
+223,Male,51+,Bachelor,5,52,1
+224,Male,41-50,Bachelor,7,97,1
+225,Male,41-50,Bachelor,11,47,1
+226,Male,31-40,PhD,2,69,1
+227,Female,31-40,Bachelor,7,74,1
+228,Male,22-30,Bachelor,4,71,1
+229,Female,22-30,Master,11,62,1
+230,Female,41-50,Bachelor,0,63,1
+231,Female,41-50,Bachelor,4,65,0
+232,Male,51+,Bachelor,8,62,0
+233,Male,51+,Bachelor,13,79,0
+234,Male,31-40,Bachelor,6,98,1
+235,Male,41-50,Bachelor,4,56,0
+236,Female,51+,Bachelor,14,44,0
+237,Male,41-50,PhD,1,63,0
+238,Male,22-30,Bachelor,0,100,1
+239,Female,31-40,Bachelor,8,52,0
+240,Male,22-30,Master,4,89,1
+241,Female,51+,High School,2,90,0
+242,Female,31-40,Master,9,56,0
+243,Female,22-30,Bachelor,7,73,1
+244,Male,31-40,PhD,4,89,1
+245,Male,31-40,Bachelor,1,59,1
+246,Female,31-40,Bachelor,10,61,1
+247,Male,22-30,High School,9,56,0
+248,Female,31-40,PhD,6,49,0
+249,Female,31-40,Bachelor,14,55,0
+250,Female,41-50,Bachelor,2,46,0
+251,Male,31-40,High School,0,65,0
+252,Male,41-50,Master,4,53,1
+253,Female,31-40,Bachelor,6,68,1
+254,Male,31-40,Master,7,41,1
+255,Male,41-50,Bachelor,6,69,0
+256,Male,31-40,Bachelor,8,77,1
+257,Female,22-30,High School,1,35,1
+258,Female,22-30,Bachelor,12,70,0
+259,Male,41-50,Bachelor,6,83,1
+260,Male,31-40,High School,11,46,1
+261,Female,41-50,Master,8,90,0
+262,Female,22-30,Bachelor,8,71,1
+263,Male,22-30,Bachelor,9,54,1
+264,Male,22-30,Bachelor,8,64,1
+265,Female,31-40,Bachelor,9,73,1
+266,Female,31-40,Bachelor,12,66,1
+267,Female,31-40,Bachelor,7,73,0
+268,Female,31-40,Bachelor,9,51,1
+269,Male,51+,Master,6,67,1
+270,Male,31-40,PhD,12,43,1
+271,Female,31-40,Bachelor,4,63,0
+272,Female,41-50,Bachelor,14,51,0
+273,Female,31-40,Master,6,53,0
+274,Female,31-40,Bachelor,1,83,0
+275,Male,41-50,High School,7,81,0
+276,Male,51+,Bachelor,4,74,0
+277,Female,22-30,Master,10,48,1
+278,Female,51+,Master,4,60,0
+279,Female,31-40,High School,5,83,1
+280,Female,22-30,Bachelor,0,67,0
+281,Female,31-40,Bachelor,5,99,1
+282,Male,51+,Master,0,70,1
+283,Male,31-40,High School,0,67,1
+284,Male,22-30,High School,10,60,0
+285,Male,31-40,Master,10,67,0
+286,Male,22-30,Bachelor,8,62,0
+287,Male,22-30,Master,3,75,1
+288,Male,22-30,Bachelor,6,79,1
+289,Male,22-30,High School,6,53,1
+290,Female,22-30,Bachelor,2,45,1
+291,Male,22-30,Master,13,37,1
+292,Male,31-40,Master,10,72,1
+293,Female,22-30,Master,6,48,0
+294,Male,31-40,Bachelor,7,32,1
+295,Male,41-50,Master,7,70,1
+296,Male,31-40,Bachelor,0,100,1
+297,Female,31-40,Bachelor,6,64,0
+298,Male,22-30,Master,4,77,1
+299,Female,22-30,High School,2,66,0
+300,Male,22-30,High School,5,63,1
